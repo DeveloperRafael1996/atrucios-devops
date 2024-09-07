@@ -1,0 +1,3 @@
+interface Devops {
+    name: string
+}
