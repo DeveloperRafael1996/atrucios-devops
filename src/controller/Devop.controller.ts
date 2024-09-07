@@ -5,4 +5,6 @@ export class DevopsController {
     edit(data: any){}
 
     delete(data: any){}
+
+    find(data: any){}
 }
